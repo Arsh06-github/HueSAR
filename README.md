@@ -159,15 +159,15 @@ flowchart TD
 
 <div align="center">
 
-| Technology | Purpose |
-|------------|---------|
-| <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" height="30"/> | Deep Learning Framework |
-| <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" height="30"/> | Numerical Computing |
-| <img src="https://python-pillow.org/images/pillow-logo.png" height="30"/> | Image Processing |
-| <img src="https://raw.githubusercontent.com/rasterio/rasterio/master/docs/logo/rasterio-logo.png" height="30"/> | Geospatial Raster I/O |
-| <img src="https://raw.githubusercontent.com/scikit-image/scikit-image/main/doc/source/_static/img/logo.png" height="30"/> | Advanced Image Processing |
-| <img src="https://raw.githubusercontent.com/pytorch/vision/main/docs/source/_static/img/pytorch-logo-dark.svg" height="30"/> | Computer Vision Utilities |
-| <img src="https://developer.nvidia.com/sites/default/files/akamai/cuda/images/CUDA-Toolkit-Logo.png" height="30"/> | Hardware Acceleration |
+| Technology | Purpose | Version |
+|------------|---------|---------|
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | Deep Learning Framework | 1.9.0+ |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Numerical Computing | 1.21.0+ |
+| ![Python](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white) | Image Processing | 8.3.0+ |
+| ![Rasterio](https://img.shields.io/badge/Rasterio-00A95C?style=for-the-badge&logo=gdal&logoColor=white) | Geospatial Raster I/O | 1.2.0+ |
+| ![Scikit](https://img.shields.io/badge/Scikit--Image-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Advanced Image Processing | 0.18.0+ |
+| ![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | Computer Vision Utilities | 0.10.0+ |
+| ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | Hardware Acceleration | 11.0+ |
 
 </div>
 
